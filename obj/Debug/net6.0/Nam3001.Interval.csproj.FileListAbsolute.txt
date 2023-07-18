@@ -1,0 +1,12 @@
+D:\workspace\c#\Nam3001.Interval\bin\Debug\net6.0\Nam3001.Interval.deps.json
+D:\workspace\c#\Nam3001.Interval\bin\Debug\net6.0\Nam3001.Interval.dll
+D:\workspace\c#\Nam3001.Interval\bin\Debug\net6.0\Nam3001.Interval.pdb
+D:\workspace\c#\Nam3001.Interval\obj\Debug\net6.0\Nam3001.Interval.csproj.AssemblyReference.cache
+D:\workspace\c#\Nam3001.Interval\obj\Debug\net6.0\Nam3001.Interval.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\c#\Nam3001.Interval\obj\Debug\net6.0\Nam3001.Interval.AssemblyInfoInputs.cache
+D:\workspace\c#\Nam3001.Interval\obj\Debug\net6.0\Nam3001.Interval.AssemblyInfo.cs
+D:\workspace\c#\Nam3001.Interval\obj\Debug\net6.0\Nam3001.Interval.csproj.CoreCompileInputs.cache
+D:\workspace\c#\Nam3001.Interval\obj\Debug\net6.0\Nam3001.Interval.dll
+D:\workspace\c#\Nam3001.Interval\obj\Debug\net6.0\refint\Nam3001.Interval.dll
+D:\workspace\c#\Nam3001.Interval\obj\Debug\net6.0\Nam3001.Interval.pdb
+D:\workspace\c#\Nam3001.Interval\obj\Debug\net6.0\ref\Nam3001.Interval.dll

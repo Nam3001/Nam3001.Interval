@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nam3001.Interval", "Nam3001.Interval.csproj", "{1DC8B6EE-F6BC-4906-8090-F5334E9DF060}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DC8B6EE-F6BC-4906-8090-F5334E9DF060}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DC8B6EE-F6BC-4906-8090-F5334E9DF060}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DC8B6EE-F6BC-4906-8090-F5334E9DF060}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DC8B6EE-F6BC-4906-8090-F5334E9DF060}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C33B2722-A6FE-49C9-9D7B-69E52CF07194}
+	EndGlobalSection
+EndGlobal
